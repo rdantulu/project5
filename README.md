@@ -1,6 +1,6 @@
 # Srum Team
 ## Product Owner:
-Ashish Dantuluri
+Rama Aasish Varma Dantuluri
 ## Scrum Master:
 Thanvi Veeramachaneni
 ## Developers
